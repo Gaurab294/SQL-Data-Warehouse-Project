@@ -29,6 +29,5 @@ SQL-Data-Warehouse-Project/
 │   ├── silver/    # Scripts for data cleaning
 │   ├── gold/      # Scripts for analytical star schema models
 │   ├── initial_database.sql # Database initialization script
-│   └── placeholder.sql      # Placeholder file
 ├── tests/         # Quality assurance and validation scripts
 └── README.md      # Project overview
