@@ -15,10 +15,10 @@ This project utilizes the industry-standard **Medallion Architecture**, ensuring
 - **Data Modeling:** Designed normalized dimension and fact tables to support complex business reporting.
 
 ## 📊 Project Ecosystem
-This repository focuses on the **Engineering** phase of the data lifecycle. 
-* **Analytics & EDA:** My companion repository for Exploratory Data Analysis and business insights derived from this warehouse is currently under development and will be linked here shortly.
+This repository focuses on the **Engineering** phase of the data lifecycle.
 
----
+- **Analytics & EDA:** Companion repository focused on exploratory data analysis, KPI reporting, and business insights built on top of this warehouse:
+  [SQL Data Analytics Project](https://github.com/Gaurab294/SQL-Data-Analytics-Project)
 
 ## 📂 Repository Structure
 ```text
